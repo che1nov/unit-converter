@@ -75,8 +75,4 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### Feedback
-
-Submit your solution and get feedback from the community. Upvote if you find the project useful!
-
-Happy converting!
+https://roadmap.sh/projects/unit-converter
